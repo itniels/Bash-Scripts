@@ -4,6 +4,7 @@
 # created by Niels Schmidt - 2016
 # it.niels@gmail.com
 # Read more here: 
+# https://itniels.dk/virtualization/proxmox/proxmox-and-letsencrypt-certificates/
 #
 # I take no resposibility what so ever for any damages or dataloss
 # that may occur using this script, it is your own resosibility.
